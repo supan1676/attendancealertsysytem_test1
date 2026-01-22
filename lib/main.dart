@@ -57,7 +57,7 @@ class DatabaseHelper {
     ];
 
     for (var s in data) {
-      await db.insert('students', {
+      await db.insert('students', {`
         'uid': s['uid'], 'name': s['name'], 'phone': s['phone'],
         'email': 'YOUR_REAL_EMAIL@gmail.com' // Don't forget to change this!
       });
