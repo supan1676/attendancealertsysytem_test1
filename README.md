@@ -1,4 +1,4 @@
-# fristproject
+# Attendance Alert system Prototype
 
 A new Flutter project.
 
