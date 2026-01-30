@@ -22,7 +22,12 @@ dependencies:
   path: ^1.9.0           # For database paths
   mailer: ^6.0.0         # To send Emails directly
   telephony: ^0.2.0
+  supabase_flutter: ^2.0.0
+  flutter_local_notifications: ^18.0.1
+  shared_preferences: ^2.2.2
+  flutter_background_service: ^5.0.0
   intl: ^0.19.0          # For formatting dates (e.g., 2025-01-20)
+  permission_handler: ^12.0.1
 
 dev_dependencies:
   flutter_test:
