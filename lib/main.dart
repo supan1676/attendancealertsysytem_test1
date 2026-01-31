@@ -12,8 +12,8 @@ import 'package:permission_handler/permission_handler.dart';
 // -----------------------------------------------------------------------------
 // 1. CONFIGURATION
 // -----------------------------------------------------------------------------
-const String supabaseUrl = 'https://gavcnjpzeqhrrhcmnsbp.supabase.co';
-const String supabaseKey = 'sb_publishable_yOqpThGaRtSnPHQBslCxrA_PaAYDDhz';
+const String supabaseUrl = 'YOUR_URL';
+const String supabaseKey = 'YOUR_KEY';
 
 // -----------------------------------------------------------------------------
 // 2. APP ENTRY POINT
